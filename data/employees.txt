@@ -1,0 +1,5 @@
+name:John Doey,email:john@example.com,age:30
+name:Jane Smith,email:jane@example.com,age:25
+name:Alice Johnson,email:alice@example.com,age:28
+name:,email:missingemail@sample.com,age:27
+name:Bob Ross,email:bob@example.com,age:

@@ -1,0 +1,6 @@
+name,email,age,department
+John Doe,john@example.com,30,Engineering
+Jane Smith,jane@example.com,25,Marketing
+Alice Johnson,alice@example.com,28,HR
+,missingemail@sample.com,27,Sales
+Bob Ross,bob@example.com,,Design
