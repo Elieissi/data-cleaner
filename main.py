@@ -192,6 +192,7 @@ def export_txt(data, filename):
 def main():
     while True:
         filepath = input("Enter path of file you want to parse ").strip()
+        filepath = "data/" + filepath  #always look in data folder
 
         if not os.path.isfile(filepath):
             print("File path nonexistant")
